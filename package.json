@@ -1,0 +1,21 @@
+{
+  "name": "express_to_excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "debug": "^4.3.2",
+    "exceljs": "^4.2.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3",
+    "node-schedule": "^2.0.0",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "author": "",
+  "license": "ISC"
+}
